@@ -6,4 +6,6 @@ this is the final file to be saved....these changes must not be lost
 
 finally - both the above set of statements are merged to master.
 
-Verifying cherry-pick from master
+Verifying CHERRY-PICK from newfeature branch
+
+Merge conflicts fixed. changes from master removed and agreed with new changes from newfeature branch
