@@ -1,0 +1,4 @@
+new feature file 01
+new feature file updates from new-feature branch.
+source: maste
+this is the final file to be saved....these changes must not be lost
